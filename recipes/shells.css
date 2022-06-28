@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+img {
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+h2 {
+    text-align: center;
+}
+
+li {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.describe {
+    font-size: large;
+    text-align: center;
+}
