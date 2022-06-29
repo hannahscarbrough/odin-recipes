@@ -16,3 +16,7 @@ h1 {
 #recipe-list {
     text-align: center;
 }
+
+h1, h2, a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
