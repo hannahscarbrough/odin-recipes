@@ -24,3 +24,7 @@ h1, h2, a {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(175, 120, 30);
 }
+
+a:hover {
+    color: black;
+}
