@@ -3,6 +3,8 @@ img {
     height: 500px;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 10px;
+    box-shadow: 1px -1px 17px 9px rgba(175,120,30,0.71);
 }
 
 body {
@@ -25,7 +27,12 @@ p {
     text-align: center;
 }
 
-h2, p {
+h2, p, li {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(175, 120, 30);
+}
+
+li {
+    font-size: 20px;
+    line-height: 30px;
 }
